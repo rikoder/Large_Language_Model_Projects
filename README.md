@@ -1,2 +1,2 @@
-# Large_Language_Model_Projects
+# Large Language Model Projects
 Conversational Business Intelligence Using GPT-3
